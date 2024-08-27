@@ -7,3 +7,5 @@ elif ((nota1+nota2)/2) >= 5 and ((nota1+nota2)/2) <= 6.9:
     print("Recuperação")
 else:
     print("Aprovado")
+
+print("Teste")
